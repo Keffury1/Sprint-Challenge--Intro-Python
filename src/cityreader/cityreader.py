@@ -53,8 +53,6 @@ cityreader(cities)
 
 # Print the list of cities (name, lat, lon), 1 record per line.
 
-print(cities)
-
 for c in cities:
     print(c)
 
